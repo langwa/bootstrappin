@@ -1,0 +1,14 @@
+{
+  "name": "bootstrappin",
+  "version": "0.1.0",
+  "description": "Express serving static HTML + Bootstrap",
+  "main": "server.js",
+  "repository": "https://github.com/langwa/bootstrappin.git",
+  "author": "Grant Langlois",
+  "dependencies": {
+    "express": "~3.2.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
